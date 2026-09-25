@@ -1,0 +1,218 @@
+# Personal Portfolio
+
+# sidebar
+
+alt = Gaurav Dubey
+
+Gaurav Dubey
+
+Python Full Stack Developer
+
+Show Contacts
+
+Email
+
+[dubeygaurav059@gmail.com](mailto:dubeygaurav059@gmail.com)
+
+Phone
+
++91-7619947649
+
+Birthday
+
+(Optional)
+
+Location
+
+Lucknow, Uttar Pradesh, India
+
+# navbar
+
+About
+
+Resume
+
+Portfolio
+
+Contact
+
+# about
+
+About Me
+
+I am a Python Full Stack Developer with 1 year of internship experience at DigiCoders Technologies Pvt. Ltd., Lucknow.
+
+I have hands-on experience in Python, Django, Django REST Framework, MySQL, HTML, CSS, JavaScript and REST API Development.
+
+I enjoy building scalable web applications, database-driven systems and modern web solutions.
+
+## service
+
+What I'm Doing
+
+alt = python icon
+
+Python Development
+
+Building backend applications using Python and Django.
+
+alt = web development icon
+
+Web Development
+
+Developing responsive and scalable web applications.
+
+alt = api icon
+
+REST API Development
+
+Creating and integrating RESTful APIs.
+
+alt = database icon
+
+Database Management
+
+Working with MySQL, PostgreSQL and SQLite databases.
+
+# resume
+
+Resume
+
+Education
+
+Bachelor of Science (B.Sc.) in Computer Science
+
+2023 — 2026
+
+Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi
+
+Experience
+
+Python Full Stack Developer Intern
+
+June 2025 — Present
+
+DigiCoders Technologies Pvt. Ltd., Lucknow
+
+Developing web applications using Python, Django, MySQL and REST APIs.
+
+Working on authentication systems, admin dashboards and database operations.
+
+My Skills
+
+Python
+
+90%
+
+Django
+
+90%
+
+MySQL
+
+85%
+
+REST API
+
+85%
+
+HTML5
+
+90%
+
+CSS3
+
+85%
+
+JavaScript
+
+80%
+
+Git & GitHub
+
+80%
+
+# portfolio
+
+Portfolio
+
+All
+
+Web Development
+
+Applications
+
+Select Category
+
+All
+
+Web Development
+
+Applications
+
+alt = ATS Analyzer
+
+AI Resume ATS Analyzer
+
+Web Development
+
+alt = Food Delivery
+
+Online Food Delivery System
+
+Web Development
+
+alt = Hospital Management
+
+Hospital Management System
+
+Web Development
+
+alt = Resume Analysis
+
+Resume Analysis System
+
+Applications
+
+alt = Attendance System
+
+Attendance Management System
+
+Applications
+
+alt = Django API
+
+Django REST API Project
+
+Web Development
+
+# contact
+
+Contact
+
+Contact Form
+
+Full Name
+
+Email Address
+
+Your Message
+
+Send Message
+
+Contact Details
+
+Email:
+[dubeygaurav059@gmail.com](mailto:dubeygaurav059@gmail.com)
+
+Phone:
++91-7619947649
+
+Location:
+Lucknow, Uttar Pradesh, India
+
+LinkedIn:
+https://www.linkedin.com/in/gaurav-dubey2011
+
+GitHub:
+https://github.com/dubeygaura
